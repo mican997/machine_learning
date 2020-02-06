@@ -1,4 +1,4 @@
-this is note and template about linear regression and so on
+this is note and template about linear regression and so on. mainly this template is from udemy courses with a little bit of twist
 
 # Regression Analysis
 
